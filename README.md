@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html>
+<head>
+        <meta charset="utf-8">
+<title>Eleanor McArthur eleanormcarthur@gmail.com</title>
+    <style>
+        body {
+            background-color:aquamarine;
+            color:darkgreen;
+            margin:0px, 0px, 0px, 0px;
+        }
+    </style>
+</head>
 
-You can use the [editor on GitHub](https://github.com/elliemcarthur/webportfolio1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<body>
+    <h1>7 Biggest Challenges of Web Design</h1>
+    
+    <h2>1. Integration</h2>
+        <p>There are many third-party applications out there.  It is important to ensure that the design of the page will be allowed to synchronize with these applications.</p>
+    <h2>2. Accessibility</h2>
+        <p>Ensuring that the website is accessible to the elderly, deaf, and/or hearing impaired or anyone else who has a disability and less priviledged.</p>
+    <h2>3. Responsive</h2>
+        <p>This is to allow the content from a website to be able to be seen on multiple browers, screens, and platforms.</p>
+    <h2>4. Security</h2>
+        <p>This is to ensure that your website is protected against malware, hackers, and delusion.</p>
+    <h2>5. User Experience</h2>
+        <p>To ensure that the website ensures a quality experience, that is easy to use and not boring.</p>
+    <h2>6. Speed</h2>
+        <p>Avoid issues that would make the website take a long time to load.</p>
+    <h2>7. Retention</h2>
+        <p>Find ways to ensure that users/visitors will come back to your website.</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elliemcarthur/webportfolio1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
